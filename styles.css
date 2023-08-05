@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color:#E8FFCE;
+    text-align: center;
+    margin: 0 0 0 0;
+
+
+}
+
+img {
+height: 500px;
+width: 100%;
+
+
+
+}
+h1{
+    margin: 0 0 0 0;
+}
+   
+.jsut{
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 5px;
+    color: red;
+}
+
+.listItem{
+    background-color:#ACFADF;
+    text-align: center;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    font-size: large;
+    margin: 0 0 0 0;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+ul {
+    margin: 0;
+}
+
+
+.footer{
+    background-color:#FFE5AD;
+    padding-left: 20px;
+    font-style: italic;
+    font-size: large;
+    font-weight: bolder;
+
+}
+ul{
+    list-style-type: none;
+}
+img {
+    background-image: cover;
+}
+/* this is address page*/
+.location-page{
+    background-color: aqua;
+}
+.address {
+    padding-top: 20px;
+    text-align: center;
+    background-color: ;
+    color: #000;
+    margin-top: 5px;
+    margin-bottom: ;
+}
+
